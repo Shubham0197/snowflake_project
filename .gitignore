@@ -1,0 +1,4 @@
+*.env
+*.pub
+*.p8
+myenv/
